@@ -1,5 +1,5 @@
 # Created by Brian Worrall
-# Date: 2019-10-02
+# Date: 2020-09-08
 
 # This repository contains exported SQL Table definitions and data for AHL, CFL, FIFA / World, MLB, NBA, NCAA, NFL, NHL, and Premier League teams as of this date. Used to retrieve sports teams names from individual leagues without using WHERE clauses.
 
