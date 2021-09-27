@@ -53,6 +53,7 @@ INSERT INTO `nhl_teams` (`name`) VALUES
 ('Edmonton Oilers'),
 ('Los Angeles Kings'),
 ('San Jose Sharks'),
+('Seattle Kraken'),
 ('Vancouver Canucks'),
 ('Vegas Golden Knights');
 COMMIT;
