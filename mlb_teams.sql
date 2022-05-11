@@ -30,7 +30,7 @@ INSERT INTO `mlb_teams` (`name`) VALUES
 ('Tampa Bay Rays'),
 ('Toronto Blue Jays'),
 ('Chicago White Sox'),
-('Cleveland Indians'),
+('Cleveland Guardians'),
 ('Detroit Tigers'),
 ('Kansas City Royals'),
 ('Minnesota Twins'),
