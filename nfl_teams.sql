@@ -43,7 +43,7 @@ INSERT INTO `nfl_teams` (`name`) VALUES
 ('Dallas Cowboys'),
 ('New York Giants'),
 ('Philadelphia Eagles'),
-('Washington Football Team'),
+('Washington Commanders'),
 ('Chicago Bears'),
 ('Detroit Lions'),
 ('Green Bay Packers'),
