@@ -30,7 +30,7 @@ INSERT INTO `cfl_teams` (`name`) VALUES
 ('Toronto Argonauts'),
 ('BC Lions'),
 ('Calgary Stampeders'),
-('Edmonton Eskimos'),
+('Edmonton Elks'),
 ('Saskatchewan Roughriders'),
 ('Winnipeg Blue Bombers');
 COMMIT;
